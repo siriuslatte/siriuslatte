@@ -1,7 +1,5 @@
 ### Hi there, I'm sharkyboy! 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on a Simulator on the ROBLOX platform being developed by DreamIt Studios, as well as being the `Head Developer` for Sprinklify and managing and coordinating all the development within. 
 
 - 🌱 I’m currently learning everything related to `Lua` and most likely maths, tho I'm not that good.
