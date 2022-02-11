@@ -1,4 +1,4 @@
-### Hi there, I'm siriuslatte! 👋
+### Hi there, I'm siriuslatte (Ademir Sánchez)! 👋
 
 - Software Engineer wannabe! 📶
 - 16yrs-old mexican trying to get into the MIT and study Mechatronics Engineering. 🇲🇽
