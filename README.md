@@ -1,9 +1,34 @@
-### Hi there, I'm siriuslatte (Ademir Sánchez)! 👋
+```rust
+trait Ademir {
+    fn who_am_i(&self);
+}
 
-- Software Engineer wannabe! 📶
-- 17yrs-old mexican trying to go to Canada and continue my studies there! 🇲🇽
-- Doing small-to-big projects within 2022, starting from simple applications to even more complex projects like building my own lisp or programming language!
+struct JobInformation {
+    company: &'static str,
+    position: &'static str,
+}
 
-Interested in collaborating or contribuiting to an already existing repository? Feel free to create a PR and I'll take a look to it as soon as I can.
+struct PersonInformation {
+    age: u8,
+    name: &'static str,
+    
+    worksplace: JobInformation,
+    knowledge_on: [&'static str; 4],
+}
 
-- *Happy coding gamers*
+impl Ademir for PersonInformation {
+    fn who_am_i(&self) {
+        let ademir_information = PersonInformation {
+            name: "Claudio Ademir Sánchez Barajas",
+            age: 17,
+    
+            worksplace: JobInformation { 
+                company: "Aether Interactive Ltd.",
+                position: "Junior Developer"
+            },
+    
+            knowledge_on: [ "TypeScript", "Rust", "Lua", "Python" ],
+        };
+    }
+}
+```
