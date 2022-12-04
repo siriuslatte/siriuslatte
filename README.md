@@ -22,7 +22,7 @@ impl Ademir for PersonInformation {
             name: "Claudio Ademir Sánchez Barajas",
             age: 17,
     
-            worksplace: JobInformation { 
+            workspace: JobInformation { 
                 company: "Aether Interactive Ltd.",
                 position: "Junior Developer"
             },
