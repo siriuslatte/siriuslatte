@@ -12,7 +12,7 @@ struct PersonInformation {
     age: u8,
     name: &'static str,
     
-    worksplace: JobInformation,
+    workspace: JobInformation,
     knowledge_on: [&'static str; 4],
 }
 
