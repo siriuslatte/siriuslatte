@@ -1,34 +1,6 @@
-```rust
-trait Ademir {
-    fn who_am_i(&self);
-}
-
-struct JobInformation {
-    company: &'static str,
-    position: &'static str,
-}
-
-struct PersonInformation {
-    age: u8,
-    name: &'static str,
+<div align=center>
     
-    workspace: JobInformation,
-    knowledge_on: [&'static str; 4],
-}
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=siriuslatte&show_icons=true&count_private=true&theme=codeSTACKr&hide_title=true&hide=stars,issues)
+ 
+</div>
 
-impl Ademir for PersonInformation {
-    fn who_am_i(&self) {
-        let ademir_information = PersonInformation {
-            name: "Claudio Ademir Sánchez Barajas",
-            age: 17,
-    
-            workspace: JobInformation { 
-                company: "Aether Interactive Ltd.",
-                position: "Junior Developer"
-            },
-    
-            knowledge_on: [ "TypeScript", "Rust", "Lua", "Python" ],
-        };
-    }
-}
-```
