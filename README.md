@@ -37,7 +37,7 @@ I am a passionate for **Computer Science**, specializing in game development and
 - 🎯 Aspiring to master **systems programming**, **game engine development**, and **OS-level architecture**
 
 ## 🚀 Skills
-- **Programming Languages:** Lua, C++, Rust, Python  
+- **Programming Languages:** Lua, C++, Rust, TypeScript, Java
 - **Software Engineering:** Algorithms, Data Structures, Optimization
 - **Mathematics:** Advanced math for game development (linear algebra, calculus, discrete math)  
 - **Other:** System automation, OS development concepts, Language development concepts
