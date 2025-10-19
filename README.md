@@ -43,10 +43,9 @@ I am a passionate for **Computer Science**, specializing in game development and
 - **Other:** System automation, OS development concepts, Language development concepts
 
 ## 📈 GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=siriuslatte&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siriuslatte&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
-</div>
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=siriuslatte&theme=highcontrast&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
+</p>
 
 ## 📚 Learning Roadmap
 I am actively studying:
