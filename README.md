@@ -29,32 +29,4 @@
   </a>
 </p>
 
-## 👨‍💻 About Me
-I am a passionate for **Computer Science**, specializing in game development and systems programming. My expertise lies in **Roblox development**, **algorithm optimization**, and **software engineering**. I’m driven by building scalable systems, solving complex problems, and creating engaging player experiences.
-
-- 💼 Professional experience: 4+ years in software development  
-- 🎓 Student of **Mechatronics Engineering**  
-- 🎯 Aspiring to master **systems programming**, **game engine development**, and **OS-level architecture**
-
-## 🚀 Skills
-- **Programming Languages:** Lua, C++, Rust, TypeScript, Java
-- **Software Engineering:** Algorithms, Data Structures, Optimization
-- **Mathematics:** Advanced math for game development (linear algebra, calculus, discrete math)  
-- **Other:** System automation, OS development concepts, Language development concepts
-
-## 📈 GitHub Stats
-<p align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=siriuslatte&theme=highcontrast&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
-</p>
-
-## 📚 Learning Roadmap
-I am actively studying:
-- Advanced game engine development (Rust, C++)  
-- Procedural generation algorithms  
-- OS-level systems programming  
-- Advanced mathematics for software engineering  
-- Scalable game system architecture
-
-## 📫 Connect with Me
-- 🌐 [LinkedIn](https://www.linkedin.com/in/barajasademir)  
-- 🐙 [GitHub](https://github.com/barajasademir)  
+![Metrics](/github-metrics.svg)
